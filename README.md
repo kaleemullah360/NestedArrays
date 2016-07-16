@@ -9,6 +9,13 @@ e.g. [[1,2,[3]],4] -> [1,2,3,4].
 `Ruby v2.2.2` or higher
 `Ubuntu Operating System`
 
+## Project Setup:
+
+For automatically setup ruby environment jus do
+
+``` sudo bash ./runonce.sh
+```
+
 ## RUN Application
 
 ```
