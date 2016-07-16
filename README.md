@@ -13,7 +13,8 @@ e.g. [[1,2,[3]],4] -> [1,2,3,4].
 
 For automatically setup ruby environment jus do
 
-``` sudo bash ./runonce.sh
+``` 
+sudo bash ./runonce.sh
 ```
 
 ## RUN Application
