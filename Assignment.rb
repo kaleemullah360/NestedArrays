@@ -10,7 +10,7 @@
 # Description:
 # => class Assignment declare and define three integers nested arrays. and these nested arrays are flatten to single array.
 
-# ========= Solution =========================
+# ========= Solution Begines here ========================= #
 
 class Assignment
 	
@@ -37,3 +37,4 @@ class Assignment
 	end
 
 end
+# ========= Solution Ends here ========================= #
