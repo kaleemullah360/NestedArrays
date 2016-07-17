@@ -27,5 +27,5 @@ make run
 ```
   
 ### Author::    Kaleem Ullah  (kaleemullah360@live.com)
-### Copyright:: Copyright (c) 2016 XYZ Co
+### Copyright:: Copyright (c) 2016 AngstromArc
 ### License::   Distributes under the same terms as Ruby
