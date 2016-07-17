@@ -13,6 +13,7 @@
 # ========= Solution =========================
 
 class Assignment
+	
 	# create 3rd nested array
 	sub_sub_array = [3]
 
