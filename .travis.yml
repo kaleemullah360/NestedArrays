@@ -3,5 +3,5 @@ sudo: required
 rvm:
   - 2.3.0
 script:
-  - sudo bash ./runonce.sh
+  - bash runonce.sh
   - ruby Assignment.rb
