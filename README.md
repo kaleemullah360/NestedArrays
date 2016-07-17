@@ -4,6 +4,8 @@ This application flatten an array of arbitrarily nested arrays of integers into 
 
 e.g. [[1,2,[3]],4] -> [1,2,3,4].
 
+[![Build Status](https://travis-ci.org/kaleemullah360/NestedArrays.svg?branch=master)](https://travis-ci.org/kaleemullah360/NestedArrays)
+
 ## Dependencies:
 
 `Ruby v2.2.2` or higher
