@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# this script will detect ruby if not found then try to install it.
 DIR=$(which ruby)
 
 DIR=$(dirname $DIR)
