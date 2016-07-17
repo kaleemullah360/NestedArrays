@@ -9,6 +9,7 @@ e.g. [[1,2,[3]],4] -> [1,2,3,4].
 ## Dependencies:
 
 `Ruby v2.2.2` or higher
+
 `Ubuntu Operating System`
 
 ## Project Setup:
