@@ -13,6 +13,8 @@
 # Important:
 # => there could be many possibilities to acheive this gaol. I am using this mathod. and ruby has builtin method to do so
 # i.e flatten arrays. http://apidock.com/ruby/Array/flatten
+# a = [ 1, 2, [3, [4, 5] ] ]
+# a.flatten(1)              #=> [1, 2, 3, [4, 5]]
 
 # ========= Solution Begines here ========================= #
 
