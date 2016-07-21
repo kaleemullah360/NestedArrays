@@ -11,7 +11,8 @@
 # => class Assignment declare and define three integers nested arrays. and these nested arrays are flatten to single array.
 
 # Important:
-# => there could be many possibilities to acheive this gaol. I am using this mathod.
+# => there could be many possibilities to acheive this gaol. I am using this mathod. and ruby has builtin method to do so
+# i.e flatten arrays. method
 
 # ========= Solution Begines here ========================= #
 
