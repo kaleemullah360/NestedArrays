@@ -11,6 +11,7 @@
 # => class Assignment declare and define three integers nested arrays. and these nested arrays are flatten to single array.
 
 # Important:
+# => there could be many possibilities to acheive this gaol. I am using this mathod.
 
 # ========= Solution Begines here ========================= #
 
